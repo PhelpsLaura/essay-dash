@@ -19,6 +19,6 @@ This is yet another iteration of a web app I've written for myself to have an al
 
 ##### More
 
-(If you want to see the *very far from complete* attempt that a friend and I made during a 12-hour hackathon to rebuild this idea from the ground up in a way that makes sense for a wider audience, check out [this repository](https://github.com/PhelpsLaura/essayOrganizer).)
+* Check out the [Pandoc](https://pandoc.org/) integrated version of this app [here!](https://github.com/PhelpsLaura/essay-dash-plus-pandoc)
 
-(The repository for the original project (which I couldn't deploy as it's using SQLite) is over [here](https://github.com/PhelpsLaura/essay-prototype).)
+* If you want to see the *very far from complete* attempt that a friend and I made during a 12-hour hackathon to rebuild this idea from the ground up in a way that makes sense for a wider audience, check out [this repository](https://github.com/PhelpsLaura/essayOrganizer).
